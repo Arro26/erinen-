@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="KWS`YvIXn?_u7V9i=wH4" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="x$z|7,Jy^2t+;G[If]zG"><field name="LEDS">`
+        # . . . # 
+        # . # . . 
+        . # . . . 
+        . # # # # 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="tK1lM{R%;~X2J.TriV5R"><field name="LEDS">`
+        # . . . . 
+        . . # # . 
+        . # # . # 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id=".Q02r{fDQoTw3g.)rvZV"><field name="LEDS">`
+        . # . . . 
+        . . . # # 
+        . # . . . 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=",3GMCy:v_1E0SSDG;L*_"><field name="LEDS">`
+        # . . . . 
+        . . # # # 
+        . # . . . 
+        . . . . # 
+        . . . # .
+        `</field><next><block type="basic_show_icon" id="Arj;!eB-o,E[R:SNHyTX"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="i">IconNames.Diamond</field><value name="interval"><shadow type="math_number" id="ncvaskbh*7rn~#pr[kSs"><field name="NUM">600</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="?M$SLFx0nKBH%-K;fbn3" x="205" y="-4"></block><block type="serial_redirect" id="SJAWe7*KKl8~z;-X2e!q" disabled="true" x="-269" y="796"><field name="tx">SerialPin.P0</field><field name="rx">SerialPin.P1</field><field name="rate">BaudRate.BaudRate115200</field></block></xml>
